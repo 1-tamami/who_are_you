@@ -3,3 +3,4 @@ __pycache__/
 raw_data.txt
 questions.db
 data_component.py
+instance/
