@@ -159,8 +159,8 @@ class DataManager:
                     password=new_user["password"],
                     student=int(new_user["student"]),
                     agreement=1,
-                    created_at= dt.datetime.now().strftime("%F %T"),
-                    updated_at= dt.datetime.now().strftime("%F %T")
+                    created_at= dt.datetime.now().strftime('%F %T'),
+                    updated_at= dt.datetime.now().strftime('%F %T')
                 )
                 self.db.session.add(new_user)
                 self.db.session.commit()
@@ -201,7 +201,7 @@ class DataManager:
         if not all_posts:
             return "No data."
         else:
-            filename = f"who_are_you_userdata_{dt.datetime.now().strftime("%Y%m%d_%H%M")}.csv"
+            filename = f"who_are_you_userdata_{dt.datetime.now().strftime('%Y%m%d_%H%M')}.csv"
             with open(filename, "w", newline='', encoding='utf-8') as file:
                 fieldnames = all_posts[0].keys() # 辞書のキーからフィールド名を取得
                 writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -214,7 +214,7 @@ class DataManager:
             result = self.db.session.execute(
                 self.db.update(self.Users)
                 .where(self.Users.id == user_id)
-                .values(**update_information, updated_at=dt.datetime.now().strftime("%F %T"))
+                .values(**update_information, updated_at=dt.datetime.now().strftime('%F %T'))
             )
             self.db.session.commit()
             print(f"Update successfully.")
@@ -266,8 +266,8 @@ class DataManager:
                     student=False,
                     question=question["question"],
                     answer=user_answer,
-                    created_at= dt.datetime.now().strftime("%F %T"),
-                    updated_at= dt.datetime.now().strftime("%F %T")
+                    created_at= dt.datetime.now().strftime('%F %T'),
+                    updated_at= dt.datetime.now().strftime('%F %T')
                 )
             self.db.session.add(new_answer)
             self.db.session.commit()
@@ -283,7 +283,7 @@ class DataManager:
                         self.UserAnswer.user_id == user_id
                     )
                 )
-                .values(answer=user_answer, updated_at=dt.datetime.now().strftime("%F %T"))
+                .values(answer=user_answer, updated_at=dt.datetime.now().strftime('%F %T'))
             )
             self.db.session.commit()
             print(f"Update successfully.")
