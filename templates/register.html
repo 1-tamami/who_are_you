@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Who Are You - Register{% endblock %}
+{% block content %}
+        <div class="container my-4">
+            <h1 class="heading">Create New Account</h1>
+            <p  style="color: red;">{{ feedback }}</p>
+            {{ render_form(form) }}
+        </div>
+{% endblock %}

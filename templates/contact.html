@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Who Are You - Contact{% endblock %}
+{% block content %}
+        <div class="container my-4">
+            <h1 class="heading">Contact Form</h1>
+            <p class="color: red">{{ feedback }}</p>
+            {{ render_form(form) }}
+        </div>
+{% endblock %}

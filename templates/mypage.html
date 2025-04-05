@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+{% block title %}Who Are You - My Page{% endblock %}
+{% block content %}
+        <div class="container my-4">
+            <h1 class="heading">My Page</h1>
+            <p>What do you want to do?</p>
+            <a class="btn btn-outline-secondary" href="{{ url_for('download') }}">Download Data</a><br><br>
+            <a class="btn btn-outline-secondary" href="{{ url_for('settings') }}">Update Account Information</a><br><br>
+            <a class="btn btn-outline-secondary" href="{{ url_for('change_password') }}">Change the Password</a><br><br>
+            <a class="btn btn-outline-secondary" href="{{ url_for('home') }}">Back to Home</a>
+        </div>
+{% endblock %}

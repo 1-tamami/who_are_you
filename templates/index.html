@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+{% block title %}Who Are You - Home{% endblock %}
+{% block content %}
+<!-- Masthead-->
+<header class="masthead">
+    <div class="container position-relative">
+        <div class="row justify-content-center">
+            <div class="col-xl-6">
+                <div class="text-center text-white">
+                    <!-- Page heading-->
+                    <p>
+                        <span class="badge text-bg-secondary ">{{ question['category'].title().replace("_", " ") }}</span>
+                        <span class="badge text-bg-light">{{ question['depth'].title().replace("_", " ") }}</span>
+                    </p>
+                    <h2>{{ question["question"] }}</h2>
+                    <!-- New post input-->
+                    {% if logged_in: %}  
+                    <div class="position-relative">
+                        <form class=form_and_submit method="POST" action="{{ url_for('get_new_record', id=question['id']) }}"> 
+                            <textarea class="form-control my-4" rows="5" aria-label="With textarea" placeholder="Tell me about yourself" name="new_record" id="new_record"></textarea>      
+                            <button type="submit" class="btn btn-link position-absolute" style="right: 0; bottom: 0;"><img height=25 src="..//static/assets/img/send.svg"></button>
+                        </form> 
+                    </div>  
+                    {% endif %}    
+                    {% if not logged_in: %}
+                    <br>
+                    <br>
+                    <p>You can answer the question after logging in.</p>
+                    <div class="btn-group" role="group">
+                        <a class="btn btn-dark" href="{{ url_for('register') }}">Sign Up</a>
+                        <a class="btn btn-light" href="{{ url_for('login') }}">Login</a>
+                    </div>  
+                    {% endif %}                     
+                </div>    
+            </div>
+        </div>
+    </div>
+</header>
+<!-- drop downs-->
+{% if logged_in: %} 
+<section class="menu">
+    <div class="container my-2 d-flex justify-content-end">
+            <a class="btn btn-outline-dark dropdown-toggle btn-sm" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Category
+            </a>
+            <ul class="dropdown-menu">
+                    {% for cat in category: %}
+                    <li><a class="dropdown-item" href='cat={{ cat }}'>{{ cat.title().replace("_", " ") }}</a></li>
+                    {% endfor %}
+            </ul>
+            <a class="btn btn-outline-dark dropdown-toggle btn-sm" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Depth
+            </a>
+            <ul class="dropdown-menu">
+                        {% for depth_item in depth: %}
+                        <li><a class="dropdown-item" href="depth={{ depth_item }}">{{ depth_item.title() }}</a></li>
+                        {% endfor %}
+            </ul>
+            <a class="btn btn-outline-dark dropdown-toggle btn-sm" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Date
+                    </a>
+            <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="sort=latest">Latest</a></li>
+                        <li><a class="dropdown-item" href="sort=oldest">Oldest</a></li>
+            </ul>
+    </div>
+</section> 
+
+<!-- Main Comtents-->
+<section class="showcase" id="articles">
+    <div class="container-fluid p-0">
+            {% for i in range(0, user_data|length, 2) %}
+                <div class="row g-0">
+                    <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+                        <h3>{{ user_data[i]['question'] }}</h3>
+                        <p class="lead my-0" style="font-size: 1rem;">{{ user_data[i]['updated_at'] }}  
+                            <span class="badge text-bg-secondary">{{ user_data[i]['category'].title().replace("_", " ") }}</span>
+                            <span class="badge text-bg-light">{{ user_data[i]['depth'].title().replace("_", " ") }}</span>
+                        </p>
+                        <p class="lead my-0" style="font-style: italic;">{{ user_data[i]['answer'] }}</p>
+                        <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                            <button type="button" class="btn btn-outline-light edit-post"><a href="{{ url_for('edit', id=user_data[i]['question_id']) }}"><img src="../static/assets/img/pen.svg" alt="edit"></a></button>
+                            <button type="button" class="btn btn-outline-light delete-post"><a href="{{ url_for('delete', id=user_data[i]['question_id']) }}"><img src="../static/assets/img/trash.svg" alt="delete"></a></button>
+                        </div>
+                    </div>
+                    {% if i + 1 < user_data|length %}
+                        <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+                            <h3>{{ user_data[i + 1]['question'] }}</h3>
+                            <p class="lead my-0" style="font-size: 1rem;">{{ user_data[i + 1]['updated_at'] }}  
+                                <span class="badge text-bg-secondary">  {{ user_data[i + 1]['category'].title().replace("_", " ") }}  </span>
+                                <span class="badge text-bg-light">  {{ user_data[i + 1]['depth'].title().replace("_", " ") }}  </span>
+                            </p>
+                            <p class="lead my-0" style="font-style: italic;">{{ user_data[i + 1]['answer'] }}</p>
+                            <div class="btn-group btn-group-sm" role="group" aria-label="Small button group">
+                                <button type="button" class="btn btn-outline-light edit-post"><a href="{{ url_for('edit', id=user_data[i + 1]['question_id']) }}"><img src="../static/assets/img/pen.svg" alt="edit"></a></button>
+                                <button type="button" class="btn btn-outline-light delete-post"><a href="{{ url_for('delete', id=user_data[i + 1]['question_id']) }}"><img src="../static/assets/img/trash.svg" alt="delete"></a></button>
+                            </div>
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+    </div>
+</section>
+<!-- Pagenation -->
+<div class="container text-md-cente d-flex justify-content-center">
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        <li class="page-item {% if current_page == 1 or pages == 0: %}disabled{% endif %}">
+        <a class="page-link link-dark" href="page=1" aria-label="Previous">
+            <span aria-hidden="true">&laquo;</span>
+        </a>
+        </li>
+        {% if pages == 1 or pages == 0: %}
+            <li class="page-item"><a class="page-link link-dark" href="page=1">1</a></li>
+        {% elif pages == 2: %}
+            <li class="page-item"><a class="page-link link-dark" href="page=1">1</a></li>
+            <li class="page-item"><a class="page-link link-dark" href="page=2">2</a></li> 
+        {% elif pages == 3 or current_page == 1 or current_page == 2: %}
+            <li class="page-item"><a class="page-link link-dark" href="page=1">1</a></li>
+            <li class="page-item"><a class="page-link link-dark" href="page=2">2</a></li> 
+            <li class="page-item"><a class="page-link link-dark" href="page=3">3</a></li>     
+        {% else: %}
+            {% if current_page < pages: %}
+                <li class="page-item"><a class="page-link link-dark" href="page={{ current_page-1 }}">{{current_page-1}}</a></li>
+                <li class="page-item"><a class="page-link link-dark" href="page={{ current_page }}">{{current_page}}</a></li> 
+                <li class="page-item"><a class="page-link link-dark" href="page={{ current_page+1 }}">{{current_page+1}}</a></li>           
+            {% else: %}
+                <li class="page-item"><a class="page-link link-dark" href="page={{ pages - 2 }}">{{ pages - 2 }}</a></li>
+                <li class="page-item"><a class="page-link link-dark" href="page={{ pages - 1 }}">{{ pages - 1 }}</a></li> 
+                <li class="page-item"><a class="page-link link-dark" href="page={{ pages }}">{{ pages }}</a></li> 
+            {% endif %}
+        {% endif %}
+        <li class="page-item {% if current_page == pages or pages == 0: %}disabled{% endif %}">
+        <a class="page-link link-dark" href="page={{ pages }}" aria-label="Next">
+            <span aria-hidden="true">&raquo;</span>
+        </a>
+        </li>
+    </ul>
+    </nav>
+</div>
+{% endif %}       
+{% endblock %}       
