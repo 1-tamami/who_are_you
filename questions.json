@@ -1,0 +1,5802 @@
+[
+    {
+        "id": 1,
+        "category": "family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "How many siblings do you have, and what is your birth order?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 2,
+        "category": "family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Where did your family live when you were growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 3,
+        "category": "family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any family traditions that you still follow today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 4,
+        "category": "family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What is a typical family gathering like for you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 5,
+        "category": "family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What is one thing you admire about a family member?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 6,
+        "category": "family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How has your relationship with your parents changed over the years?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 7,
+        "category": "family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What values did your family emphasize while you were growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 8,
+        "category": "family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a family member who has influenced your personality the most?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 9,
+        "category": "family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What is one childhood memory with your family that makes you smile?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 10,
+        "category": "family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you usually celebrate holidays with your family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 11,
+        "category": "family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What is one lesson you learned from your family that shaped who you are today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 12,
+        "category": "family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Were there any unspoken rules in your family that affected how you express emotions?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 13,
+        "category": "family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your family's way of handling conflict influenced your own approach to disagreements?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 14,
+        "category": "family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What do you wish your family understood better about you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 15,
+        "category": "family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your family's financial situation affected your views on money and stability?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 16,
+        "category": "family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Is there any resentment or unresolved issue you have with your family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 17,
+        "category": "family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "In what ways do you feel misunderstood or unaccepted by your family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 18,
+        "category": "family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Have you ever felt like you didn’t belong in your own family? Why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 19,
+        "category": "family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What is your greatest fear regarding your relationship with your family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 20,
+        "category": "family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could change one thing about your family history, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:25:52",
+        "updated_at": "2025-03-31 19:25:52"
+    },
+    {
+        "id": 21,
+        "category": "childhood",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Where did you grow up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 22,
+        "category": "childhood",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Did you have any pets growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 23,
+        "category": "childhood",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What were some of your favorite childhood games?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 24,
+        "category": "childhood",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one of your fondest memories from your childhood?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 25,
+        "category": "childhood",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Did you have any nicknames as a child?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 26,
+        "category": "childhood",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of kid were you in school? (e.g., shy, outgoing, studious, mischievous)",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 27,
+        "category": "childhood",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What were your favorite subjects in school and why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 28,
+        "category": "childhood",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Did you have any siblings? What was your relationship like?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 29,
+        "category": "childhood",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What did you want to be when you grew up as a child?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 30,
+        "category": "childhood",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What were some of your family traditions growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 31,
+        "category": "childhood",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's one childhood experience that shaped who you are today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 32,
+        "category": "childhood",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Was there a particular adult who had a significant impact on you as a child? How so?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 33,
+        "category": "childhood",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's one childhood insecurity you still carry with you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 34,
+        "category": "childhood",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could go back and give your younger self some advice, what would it be?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 35,
+        "category": "childhood",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a childhood memory that makes you feel emotional (happy, sad, nostalgic, etc.)?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 36,
+        "category": "childhood",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What's a childhood experience you've never shared with anyone?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 37,
+        "category": "childhood",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What's a childhood regret that still haunts you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 38,
+        "category": "childhood",
+        "depth": "profound",
+        "stage": "all",
+        "question": "How did your childhood experiences contribute to your current relationship patterns?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 39,
+        "category": "childhood",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved childhood issues do you feel are holding you back today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 40,
+        "category": "childhood",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite one part of your childhood, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:26:40",
+        "updated_at": "2025-03-31 19:26:40"
+    },
+    {
+        "id": 41,
+        "category": "youth",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Where did you spend most of your youth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 42,
+        "category": "youth",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What were some of your favorite pastimes growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 43,
+        "category": "youth",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Did you have a particular group of friends you hung out with regularly?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 44,
+        "category": "youth",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one fond memory you have from your younger years?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 45,
+        "category": "youth",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of music were you into as a teenager?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 46,
+        "category": "youth",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What were some of the biggest challenges you faced during your youth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 47,
+        "category": "youth",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Did you have any role models or people you looked up to growing up?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 48,
+        "category": "youth",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of impact did your family have on your teenage years?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 49,
+        "category": "youth",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Looking back, is there anything you wish you had done differently in your youth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 50,
+        "category": "youth",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's one thing you learned during your youth that you still carry with you today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 51,
+        "category": "youth",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What were some of your biggest insecurities during your youth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 52,
+        "category": "youth",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Did you ever feel lost or uncertain about your future during your teenage years? How did you cope with that?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 53,
+        "category": "youth",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Was there a specific event or experience in your youth that significantly shaped who you are today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 54,
+        "category": "youth",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some regrets you have from your youth that you've struggled to let go of?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 55,
+        "category": "youth",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could go back and give your younger self some advice, what would it be?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 56,
+        "category": "youth",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are some of the deepest fears or anxieties that stemmed from your youth and still affect you today?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 57,
+        "category": "youth",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are there any unresolved emotional wounds from your youth that you haven't fully addressed?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 58,
+        "category": "youth",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Did you ever betray your own values or principles during your youth? How does that impact you now?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 59,
+        "category": "youth",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What parts of your youth do you tend to avoid thinking about or discussing, even with yourself? Why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 60,
+        "category": "youth",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite one chapter of your youth, which would it be and how would you change it? What are you afraid might happen if you truly confronted this memory?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:10",
+        "updated_at": "2025-03-31 19:27:10"
+    },
+    {
+        "id": 61,
+        "category": "friends",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer having a large group of friends or a smaller, close-knit circle?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 62,
+        "category": "friends",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What do you usually do when you hang out with your friends?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 63,
+        "category": "friends",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any activities you're hoping to try with friends in the future?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 64,
+        "category": "friends",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a particular type of person you tend to gravitate towards as friends?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 65,
+        "category": "friends",
+        "depth": "basic",
+        "stage": "all",
+        "question": "How did you meet most of your current friends?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 66,
+        "category": "friends",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What qualities do you value most in a friend?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 67,
+        "category": "friends",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever had a falling out with a close friend? How did you handle it?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 68,
+        "category": "friends",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there anything you wish you could change about your current friendships?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 69,
+        "category": "friends",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you find it easy to make new friends?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 70,
+        "category": "friends",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most memorable experience you've shared with a friend?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 71,
+        "category": "friends",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever felt betrayed by a friend? How did that impact you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 72,
+        "category": "friends",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's the biggest vulnerability you've shared with a friend?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 73,
+        "category": "friends",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you feel like your friendships fulfill your emotional needs? If not, what's missing?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 74,
+        "category": "friends",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Are there any past friendships you regret losing? What could you have done differently?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 75,
+        "category": "friends",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could ask your friends for one thing to improve your relationships, what would it be?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 76,
+        "category": "friends",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you fear being truly vulnerable with your friends? Why or why not?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 77,
+        "category": "friends",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are you the kind of friend you want to be? What aspects could you improve?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 78,
+        "category": "friends",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you secretly envy any of your friends? What does that envy tell you about yourself?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 79,
+        "category": "friends",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you hold back from expressing your true feelings to your friends? What are you afraid of?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 80,
+        "category": "friends",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved issues from past friendships are still affecting your current relationships?",
+        "answer": null,
+        "created_at": "2025-03-31 19:27:50",
+        "updated_at": "2025-03-31 19:27:50"
+    },
+    {
+        "id": 81,
+        "category": "love",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite way to spend a romantic evening? (Focuses on activity preference, not personal feelings)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 82,
+        "category": "love",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite romantic movie or book? (Reveals taste, not deep emotions)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 83,
+        "category": "love",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer grand romantic gestures or smaller, everyday expressions of love? (General preference, not personal experience)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 84,
+        "category": "love",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one quality you admire in a partner? (Keeps it broad and positive)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 85,
+        "category": "love",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your idea of a perfect date? (Focuses on activity, not emotional connection)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 86,
+        "category": "love",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most romantic thing someone has ever done for you? (Shares a positive experience without revealing vulnerability)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 87,
+        "category": "love",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's one thing you've learned about love from past relationships? (Reflects on experience without delving into specifics)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 88,
+        "category": "love",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How important is physical attraction to you in a relationship? (Touches on personal preference without being overly intimate)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 89,
+        "category": "love",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you believe in love at first sight? (Explores a belief without revealing personal experiences)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 90,
+        "category": "love",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are your thoughts on long-distance relationships? (Discusses a relationship style without personal details)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 91,
+        "category": "love",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your biggest fears when it comes to love? (Reveals vulnerabilities and insecurities)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 92,
+        "category": "love",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever been heartbroken, and how did you cope with it? (Shares a painful experience and coping mechanisms)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 93,
+        "category": "love",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your non-negotiables in a romantic relationship? (Exposes core values and expectations)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 94,
+        "category": "love",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's the biggest misconception people have about you when it comes to love? (Addresses personal perceptions and potential misunderstandings)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 95,
+        "category": "love",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do your past experiences influence your approach to love today? (Connects past and present, revealing personal growth and challenges)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 96,
+        "category": "love",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotional baggage from past relationships are you still carrying? (Requires deep self-reflection and honesty)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 97,
+        "category": "love",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you truly believe you are worthy of love and happiness in a relationship? (Addresses self-worth and potential self-sabotaging beliefs)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 98,
+        "category": "love",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are you most afraid of discovering about yourself through love? (Explores deep-seated fears and insecurities)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 99,
+        "category": "love",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite the narrative of your past love life, what would you change? (Requires confronting past choices and their impact)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 100,
+        "category": "love",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What part of yourself do you hide from others in romantic relationships, and why? (Uncovers hidden vulnerabilities and defense mechanisms)",
+        "answer": null,
+        "created_at": "2025-03-31 19:30:29",
+        "updated_at": "2025-03-31 19:30:29"
+    },
+    {
+        "id": 101,
+        "category": "marriage_family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your idea of a perfect family dinner?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 102,
+        "category": "marriage_family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of home environment do you envision for yourself in the future?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 103,
+        "category": "marriage_family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are some fun family traditions you'd like to start?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 104,
+        "category": "marriage_family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your dream family vacation destination?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 105,
+        "category": "marriage_family",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of activities do you imagine enjoying with your future family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 106,
+        "category": "marriage_family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What qualities do you value most in a potential spouse?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 107,
+        "category": "marriage_family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are your thoughts on parenting styles and education?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 108,
+        "category": "marriage_family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you envision balancing career aspirations with family life?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 109,
+        "category": "marriage_family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are your thoughts on the division of household chores and childcare responsibilities?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 110,
+        "category": "marriage_family",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of relationship do you hope to have with your in-laws?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 111,
+        "category": "marriage_family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your biggest fears or insecurities about marriage and starting a family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 112,
+        "category": "marriage_family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you envision handling disagreements and conflicts within your future family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 113,
+        "category": "marriage_family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your non-negotiables in a marriage and in raising children?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 114,
+        "category": "marriage_family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your deepest hopes and dreams for your future spouse and children?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 115,
+        "category": "marriage_family",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What kind of emotional intimacy and support do you envision in your ideal marriage?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 116,
+        "category": "marriage_family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are your expectations for your ideal family and marriage realistic and attainable?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 117,
+        "category": "marriage_family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are you projecting any unresolved personal issues or past experiences onto your vision of the future?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 118,
+        "category": "marriage_family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are you truly prepared for the compromises and sacrifices that come with marriage and parenthood?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 119,
+        "category": "marriage_family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are you most afraid to admit to yourself about your desires and expectations for your future family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 120,
+        "category": "marriage_family",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Deep down, what does true happiness and fulfillment in marriage and family life look like to you, regardless of societal pressures or external influences?",
+        "answer": null,
+        "created_at": "2025-03-31 19:35:46",
+        "updated_at": "2025-03-31 19:35:46"
+    },
+    {
+        "id": 121,
+        "category": "work_experience",
+        "depth": "basic",
+        "stage": "graduates",
+        "question": "What field are you currently working in?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 122,
+        "category": "work_experience",
+        "depth": "basic",
+        "stage": "graduates",
+        "question": "What's your current role at your workplace?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 123,
+        "category": "work_experience",
+        "depth": "basic",
+        "stage": "graduates",
+        "question": "What's a typical workday like for you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 124,
+        "category": "work_experience",
+        "depth": "basic",
+        "stage": "graduates",
+        "question": "What's one skill you've developed through your work experience?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 125,
+        "category": "work_experience",
+        "depth": "basic",
+        "stage": "graduates",
+        "question": "What do you enjoy most about your current work environment?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 126,
+        "category": "work_experience",
+        "depth": "moderate",
+        "stage": "graduates",
+        "question": "What's the most challenging project you've worked on, and what did you learn from it?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 127,
+        "category": "work_experience",
+        "depth": "moderate",
+        "stage": "graduates",
+        "question": "What are your career aspirations for the next few years?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 128,
+        "category": "work_experience",
+        "depth": "moderate",
+        "stage": "graduates",
+        "question": "What's one thing you wish you had known before starting your current job/career path?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 129,
+        "category": "work_experience",
+        "depth": "moderate",
+        "stage": "graduates",
+        "question": "What's the biggest difference between your expectations of this field and the reality?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 130,
+        "category": "work_experience",
+        "depth": "moderate",
+        "stage": "graduates",
+        "question": "What's the most valuable feedback you've received from a colleague or supervisor?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 131,
+        "category": "work_experience",
+        "depth": "deep",
+        "stage": "graduates",
+        "question": "How has your work experience shaped your sense of self-worth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 132,
+        "category": "work_experience",
+        "depth": "deep",
+        "stage": "graduates",
+        "question": "What are some of your biggest insecurities related to your work performance?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 133,
+        "category": "work_experience",
+        "depth": "deep",
+        "stage": "graduates",
+        "question": "If you could change one thing about your career path so far, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 134,
+        "category": "work_experience",
+        "depth": "deep",
+        "stage": "graduates",
+        "question": "How do you balance your work life with your personal life, and are you satisfied with that balance?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 135,
+        "category": "work_experience",
+        "depth": "deep",
+        "stage": "graduates",
+        "question": "What are your deepest fears about your future career prospects?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 136,
+        "category": "work_experience",
+        "depth": "profound",
+        "stage": "graduates",
+        "question": "Do you feel truly fulfilled by your work, or are you pursuing it for other reasons (e.g., financial security, societal expectations)?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 137,
+        "category": "work_experience",
+        "depth": "profound",
+        "stage": "graduates",
+        "question": "What unresolved conflicts or regrets do you carry related to your work experience?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 138,
+        "category": "work_experience",
+        "depth": "profound",
+        "stage": "graduates",
+        "question": "If you could pursue any career without limitations, what would it be and why are you not pursuing it now? Be brutally honest with yourself.",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 139,
+        "category": "work_experience",
+        "depth": "profound",
+        "stage": "graduates",
+        "question": "Does your current work align with your core values? If not, what compromises are you making and how do they affect you?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 140,
+        "category": "work_experience",
+        "depth": "profound",
+        "stage": "graduates",
+        "question": "Are you afraid of failing in your career? How does this fear manifest itself, and what steps can you take to address it?",
+        "answer": null,
+        "created_at": "2025-03-31 19:37:42",
+        "updated_at": "2025-03-31 19:37:42"
+    },
+    {
+        "id": 141,
+        "category": "ideal_work_style",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of work environment do you thrive in? (e.g., fast-paced, collaborative, independent)",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 142,
+        "category": "ideal_work_style",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are some of your key skills or strengths that you enjoy using in your work?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 143,
+        "category": "ideal_work_style",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What type of work tasks do you find most engaging?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 144,
+        "category": "ideal_work_style",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are your preferred methods of communication in a work setting?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 145,
+        "category": "ideal_work_style",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your typical approach to problem-solving at work?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 146,
+        "category": "ideal_work_style",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What aspects of a job are most important to you (e.g., work-life balance, growth opportunities, making a difference)?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 147,
+        "category": "ideal_work_style",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you handle stressful situations or tight deadlines at work?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 148,
+        "category": "ideal_work_style",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of feedback do you find most helpful for improving your performance?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 149,
+        "category": "ideal_work_style",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are some work-related challenges you've faced and how did you overcome them?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 150,
+        "category": "ideal_work_style",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are your aspirations for your career in the next few years?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 151,
+        "category": "ideal_work_style",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your underlying values that drive your career choices? (e.g., creativity, security, autonomy)",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 152,
+        "category": "ideal_work_style",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How does your ideal work style reflect your personal identity and sense of self-worth?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 153,
+        "category": "ideal_work_style",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of your deepest insecurities or fears related to your work performance?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 154,
+        "category": "ideal_work_style",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could design your perfect job without any limitations, what would it look like?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 155,
+        "category": "ideal_work_style",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you reconcile your ideal work style with the realities and compromises of the professional world?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 156,
+        "category": "ideal_work_style",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your unfulfilled ambitions or regrets related to your career path?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 157,
+        "category": "ideal_work_style",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are the deepest reasons behind your desire for a particular work style? (e.g., childhood experiences, family expectations, personal traumas)",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 158,
+        "category": "ideal_work_style",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel authentic and true to yourself in your current work situation? If not, why?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 159,
+        "category": "ideal_work_style",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What sacrifices are you willing to make (or have you already made) to achieve your ideal work style?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 160,
+        "category": "ideal_work_style",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could go back in time and give your younger self career advice, what would it be? What do you wish you had known then about your ideal work style?",
+        "answer": null,
+        "created_at": "2025-03-31 19:38:48",
+        "updated_at": "2025-03-31 19:38:48"
+    },
+    {
+        "id": 161,
+        "category": "money",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are your thoughts on budgeting and saving money?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 162,
+        "category": "money",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer experiences or material possessions?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 163,
+        "category": "money",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your opinion on the importance of financial stability?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 164,
+        "category": "money",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are some smart ways you think people can manage their finances?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 165,
+        "category": "money",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any long-term financial goals, like buying a house or early retirement? (Keep it general, avoid specifics)",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 166,
+        "category": "money",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your biggest splurge purchase you don't regret?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 167,
+        "category": "money",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you feel about lending money to friends or family?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 168,
+        "category": "money",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's one thing you'd like to invest in if you had extra money right now?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 169,
+        "category": "money",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you think your spending habits reflect your values? How so?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 170,
+        "category": "money",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How comfortable are you discussing finances with others?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 171,
+        "category": "money",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever made a financial decision that you deeply regret? What did you learn from it?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 172,
+        "category": "money",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your upbringing influenced your views on money and spending?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 173,
+        "category": "money",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you suddenly came into a large sum of money, how would it change your life? (Focus on emotional and lifestyle changes, not just material purchases)",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 174,
+        "category": "money",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your biggest financial anxieties or insecurities?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 175,
+        "category": "money",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you feel your current income reflects your worth? Why or why not?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 176,
+        "category": "money",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What does money represent to you on a deeper emotional level (e.g., security, freedom, power)?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 177,
+        "category": "money",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you fear scarcity or abundance when it comes to money? Explore the root of that fear.",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 178,
+        "category": "money",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If money were no object, what would you truly be doing with your life? (Be honest, even if it seems unrealistic)",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 179,
+        "category": "money",
+        "depth": "profound",
+        "stage": "all",
+        "question": "How do your spending habits reflect your unresolved emotional needs or insecurities?",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 180,
+        "category": "money",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What limiting beliefs about money are holding you back from achieving your financial goals? Be specific.",
+        "answer": null,
+        "created_at": "2025-03-31 19:41:27",
+        "updated_at": "2025-03-31 19:41:27"
+    },
+    {
+        "id": 221,
+        "category": "housing",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of neighborhood do you live in (e.g., city, suburbs, rural)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 222,
+        "category": "housing",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite thing about your current living space?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 223,
+        "category": "housing",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer living in a house or an apartment?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 224,
+        "category": "housing",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one thing you always look for when searching for a place to live?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 225,
+        "category": "housing",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you a plant person, or do you prefer a more minimalist approach to decorating?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 226,
+        "category": "housing",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could change one thing about your current living situation, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 227,
+        "category": "housing",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your favorite room in your house and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 228,
+        "category": "housing",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you enjoy decorating your living space, or do you see it as more of a chore?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 229,
+        "category": "housing",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your ideal Sunday morning at home look like?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 230,
+        "category": "housing",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer a quiet and tidy living space or a more lively and lived-in feel?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 231,
+        "category": "housing",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What does your living environment say about you as a person?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 232,
+        "category": "housing",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How does your living space impact your mood and well-being?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 233,
+        "category": "housing",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could design your dream home without any limitations, what would it look like and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 234,
+        "category": "housing",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of your earliest memories associated with a home or living space?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 235,
+        "category": "housing",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What role does your home play in your sense of security and belonging?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 236,
+        "category": "housing",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are you subconsciously trying to create or avoid in your living environment?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 237,
+        "category": "housing",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel truly \"at home\" in your current living space? If not, why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 238,
+        "category": "housing",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotions or memories are connected to your feelings about \"home\"?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 239,
+        "category": "housing",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your living space could talk, what secrets would it reveal about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 240,
+        "category": "housing",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What changes would you need to make to your living environment to feel completely at peace and comfortable in your own skin?",
+        "answer": null,
+        "created_at": "2025-04-01 20:29:06",
+        "updated_at": "2025-04-01 20:29:06"
+    },
+    {
+        "id": 241,
+        "category": "travel",
+        "depth": "basic",
+        "stage": "all",
+        "question": "If you could travel anywhere in the world right now, where would you go and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 242,
+        "category": "travel",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite mode of transportation when traveling (plane, train, car, etc.)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 243,
+        "category": "travel",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer traveling solo or with others?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 244,
+        "category": "travel",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one travel souvenir you've kept that holds a special meaning?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 245,
+        "category": "travel",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you traveled anywhere recently or do you have any upcoming trips planned?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 246,
+        "category": "travel",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most interesting cultural experience you've had while traveling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 247,
+        "category": "travel",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular type of travel experience you gravitate towards (adventure, relaxation, cultural immersion, etc.)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 248,
+        "category": "travel",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the biggest travel mishap you've encountered, and how did you handle it?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 249,
+        "category": "travel",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could relive one travel memory, which would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 250,
+        "category": "travel",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's one thing you always make sure to pack when you travel?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 251,
+        "category": "travel",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has travel shaped your perspective on life and the world?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 252,
+        "category": "travel",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a trip you've taken that significantly impacted your personal growth? How so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 253,
+        "category": "travel",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of your underlying anxieties or fears related to traveling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 254,
+        "category": "travel",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could travel back in time to any period or place, where would you go and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 255,
+        "category": "travel",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What does your ideal travel experience look like, beyond the surface-level details?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 256,
+        "category": "travel",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotions or personal baggage do you sometimes carry with you while traveling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 257,
+        "category": "travel",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever use travel as a form of escapism? If so, from what?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 258,
+        "category": "travel",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest insecurities that surface when you're outside your comfort zone while traveling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 259,
+        "category": "travel",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does travel ever trigger feelings of loneliness or isolation, even when you're with others? Why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 260,
+        "category": "travel",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could use travel to metaphorically \"run away\" from something in your life, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:30:48",
+        "updated_at": "2025-04-01 20:30:48"
+    },
+    {
+        "id": 261,
+        "category": "foods",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite cuisine or type of food?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 262,
+        "category": "foods",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer cooking at home or eating out?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 263,
+        "category": "foods",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there any food you absolutely dislike?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 264,
+        "category": "foods",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your go-to snack?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 265,
+        "category": "foods",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's a memorable food experience you've had while traveling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 266,
+        "category": "foods",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your comfort food after a long day?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 267,
+        "category": "foods",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Are there any foods that evoke strong memories or nostalgia for you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 268,
+        "category": "foods",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could only eat three foods for the rest of your life, what would they be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 269,
+        "category": "foods",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you have any unusual food combinations that you enjoy?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 270,
+        "category": "foods",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever tried a food that completely surprised you (positively or negatively)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 271,
+        "category": "foods",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How does food play a role in your family traditions or cultural background?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 272,
+        "category": "foods",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you have any anxieties or insecurities related to food or eating?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 273,
+        "category": "foods",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could change one thing about your relationship with food, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 274,
+        "category": "foods",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do your food choices reflect your values or lifestyle?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 275,
+        "category": "foods",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What emotions do you associate with certain foods or eating habits?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 276,
+        "category": "foods",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you use food as a coping mechanism for stress or other emotions? How does this impact your well-being?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 277,
+        "category": "foods",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest insecurities about your body image and how do they relate to your food choices?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 278,
+        "category": "foods",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could confront your inner critic about your eating habits, what would you say?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 279,
+        "category": "foods",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are there any unresolved childhood experiences or family dynamics that influence your relationship with food?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 280,
+        "category": "foods",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What steps can you take to cultivate a healthier and more positive relationship with food, both physically and emotionally?",
+        "answer": null,
+        "created_at": "2025-04-01 20:31:49",
+        "updated_at": "2025-04-01 20:31:49"
+    },
+    {
+        "id": 281,
+        "category": "sports",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you enjoy watching or playing any sports?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 282,
+        "category": "sports",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What sports did you play growing up, if any?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 283,
+        "category": "sports",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any sporting events you like to attend?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 284,
+        "category": "sports",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you been following any exciting sports news lately?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 285,
+        "category": "sports",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a particular sport you'd like to try someday?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 286,
+        "category": "sports",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your favorite sports memory, either as a participant or spectator?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 287,
+        "category": "sports",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer team sports or individual sports, and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 288,
+        "category": "sports",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could be a professional athlete in any sport, which would you choose?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 289,
+        "category": "sports",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you feel about the role of sports in society?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 290,
+        "category": "sports",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you think sports have taught you any valuable life lessons?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 291,
+        "category": "sports",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your involvement with sports shaped your personality or values?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 292,
+        "category": "sports",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever experienced a significant setback or disappointment related to sports, and how did you overcome it?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 293,
+        "category": "sports",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever feel pressure to perform or compete in sports, even recreationally?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 294,
+        "category": "sports",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you balance your passion for sports with other aspects of your life?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 295,
+        "category": "sports",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could change one thing about your relationship with sports, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 296,
+        "category": "sports",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your involvement (or lack thereof) in sports reflect any deeper insecurities or fears?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 297,
+        "category": "sports",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you use sports as a way to escape or cope with difficult emotions? If so, how healthy is this coping mechanism?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 298,
+        "category": "sports",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotions or experiences, if any, are connected to your participation in sports?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 299,
+        "category": "sports",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your ideal self-image involve athleticism or achievement in sports? Why or why not?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 300,
+        "category": "sports",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could relive one sporting moment in your life, which would it be and why? What emotions does that memory evoke?",
+        "answer": null,
+        "created_at": "2025-04-01 20:32:56",
+        "updated_at": "2025-04-01 20:32:56"
+    },
+    {
+        "id": 301,
+        "category": "sleep",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What time do you usually go to bed and wake up?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 302,
+        "category": "sleep",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you a morning person or a night owl?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 303,
+        "category": "sleep",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any bedtime rituals that help you fall asleep?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 304,
+        "category": "sleep",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite thing about sleeping?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 305,
+        "category": "sleep",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer a firm or soft pillow?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 306,
+        "category": "sleep",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever experimented with different sleep schedules or methods to improve your sleep quality?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 307,
+        "category": "sleep",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you find it easy to fall asleep in unfamiliar environments?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 308,
+        "category": "sleep",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the strangest dream you can remember having recently?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 309,
+        "category": "sleep",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you use any sleep aids, like white noise or aromatherapy?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 310,
+        "category": "sleep",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How does the quality of your sleep affect your mood and productivity the next day?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 311,
+        "category": "sleep",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever struggle with anxieties or worries that keep you awake at night?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 312,
+        "category": "sleep",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do your sleep patterns reflect your current stress levels?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 313,
+        "category": "sleep",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Are you satisfied with the role sleep plays in your overall well-being?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 314,
+        "category": "sleep",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What emotions do you experience when you think about your sleep habits?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 315,
+        "category": "sleep",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could magically improve one aspect of your sleep, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 316,
+        "category": "sleep",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unspoken fears or insecurities do you believe manifest in your dreams?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 317,
+        "category": "sleep",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel a sense of loneliness or vulnerability when you're trying to fall asleep?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 318,
+        "category": "sleep",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your sleep patterns could talk, what would they reveal about your deepest self?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 319,
+        "category": "sleep",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever use sleep as a form of escape from reality? If so, what are you trying to avoid?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 320,
+        "category": "sleep",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What do you believe your recurring dreams (if any) are trying to tell you about your subconscious desires or unresolved issues?",
+        "answer": null,
+        "created_at": "2025-04-01 20:33:49",
+        "updated_at": "2025-04-01 20:33:49"
+    },
+    {
+        "id": 321,
+        "category": "beauty_health",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What do you do to stay active or fit?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 322,
+        "category": "beauty_health",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any favorite healthy snacks or meals?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 323,
+        "category": "beauty_health",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your go-to way to relax and de-stress?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 324,
+        "category": "beauty_health",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a particular beauty product you can't live without?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 325,
+        "category": "beauty_health",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer a more natural look or enjoy experimenting with makeup/style?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 326,
+        "category": "beauty_health",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you made any recent changes to your health or beauty routine?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 327,
+        "category": "beauty_health",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Are there any health or beauty trends you're interested in trying?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 328,
+        "category": "beauty_health",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your biggest health or beauty challenge?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 329,
+        "category": "beauty_health",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you have any tips for maintaining energy throughout the day?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 330,
+        "category": "beauty_health",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your opinion on the current emphasis on health and wellness in society?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 331,
+        "category": "beauty_health",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your relationship with your body image changed over time?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 332,
+        "category": "beauty_health",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Are there any health concerns you've been hesitant to address?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 333,
+        "category": "beauty_health",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What role does beauty play in your self-esteem?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 334,
+        "category": "beauty_health",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you feel societal pressure to look or be a certain way? How do you cope with that?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 335,
+        "category": "beauty_health",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are your deepest insecurities related to your health or appearance?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 336,
+        "category": "beauty_health",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your biggest fears related to aging or potential health issues?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 337,
+        "category": "beauty_health",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you truly accept and love your body as it is? If not, what prevents you from doing so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 338,
+        "category": "beauty_health",
+        "depth": "profound",
+        "stage": "all",
+        "question": "How do your past experiences influence your current health and beauty choices?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 339,
+        "category": "beauty_health",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could magically change one thing about your appearance or health, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 340,
+        "category": "beauty_health",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are you prioritizing your health and well-being as much as you should be? What steps could you take to improve this?",
+        "answer": null,
+        "created_at": "2025-04-01 20:35:01",
+        "updated_at": "2025-04-01 20:35:01"
+    },
+    {
+        "id": 341,
+        "category": "hobbies",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What do you enjoy doing in your free time?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 342,
+        "category": "hobbies",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any hobbies you've been wanting to try?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 343,
+        "category": "hobbies",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer active hobbies or more relaxing ones?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 344,
+        "category": "hobbies",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you ever turned a hobby into a side hustle or small business?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 345,
+        "category": "hobbies",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's something you're really good at that you consider a hobby?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 346,
+        "category": "hobbies",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How much time do you dedicate to your hobbies each week?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 347,
+        "category": "hobbies",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a hobby you used to love but don't do anymore? Why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 348,
+        "category": "hobbies",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do your hobbies ever influence your work or other areas of your life?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 349,
+        "category": "hobbies",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever met any close friends through your hobbies?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 350,
+        "category": "hobbies",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most rewarding aspect of your hobbies for you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 351,
+        "category": "hobbies",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever feel pressure to be \"good\" at your hobbies, or do you pursue them purely for enjoyment?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 352,
+        "category": "hobbies",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do your hobbies contribute to your sense of self and identity?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 353,
+        "category": "hobbies",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever felt judged or misunderstood by others because of your hobbies?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 354,
+        "category": "hobbies",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever use your hobbies as a way to cope with stress or difficult emotions?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 355,
+        "category": "hobbies",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could dedicate unlimited time and resources to one hobby, which would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 356,
+        "category": "hobbies",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel like your hobbies are a form of escapism? If so, what are you escaping from?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 357,
+        "category": "hobbies",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do any of your hobbies stem from unresolved childhood desires or unmet needs?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 358,
+        "category": "hobbies",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you secretly fear that you're not truly passionate about any of your hobbies?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 359,
+        "category": "hobbies",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you were forced to give up all but one of your hobbies, which would you keep and why? What does that say about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 360,
+        "category": "hobbies",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you believe your hobbies genuinely enrich your life, or do they sometimes feel like a distraction from more important things?",
+        "answer": null,
+        "created_at": "2025-04-01 20:36:04",
+        "updated_at": "2025-04-01 20:36:04"
+    },
+    {
+        "id": 361,
+        "category": "music",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of music do you usually listen to?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 362,
+        "category": "music",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have a favorite artist or band?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 363,
+        "category": "music",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you been to any concerts recently?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 364,
+        "category": "music",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you listen to music while you work or study?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 365,
+        "category": "music",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a particular song that always puts you in a good mood?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 366,
+        "category": "music",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a song that reminds you of a specific memory or time in your life?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 367,
+        "category": "music",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could learn to play any instrument, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 368,
+        "category": "music",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer listening to music alone or with other people?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 369,
+        "category": "music",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a genre of music you used to love but don't listen to much anymore?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 370,
+        "category": "music",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever tried creating your own music?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 371,
+        "category": "music",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a song or artist that has deeply impacted your life or values? How so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 372,
+        "category": "music",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If music could express a specific emotion you struggle with, what emotion would that be and what song would represent it?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 373,
+        "category": "music",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever use music as a form of escape or emotional processing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 374,
+        "category": "music",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What does your ideal musical experience look like (e.g., intimate concert, dancing with friends, quiet listening session)? What does that say about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 375,
+        "category": "music",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a piece of music that makes you feel vulnerable or exposed?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 376,
+        "category": "music",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your life had a soundtrack, what song would play during its most challenging moments? Why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 377,
+        "category": "music",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does music ever trigger uncomfortable memories or feelings you'd rather avoid?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 378,
+        "category": "music",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel like your musical taste accurately reflects who you are as a person? If not, why the disconnect?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 379,
+        "category": "music",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite the soundtrack to a specific period of your life, what would you change and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 380,
+        "category": "music",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does the silence between notes ever speak to you more than the music itself? What does it say?",
+        "answer": null,
+        "created_at": "2025-04-01 20:37:18",
+        "updated_at": "2025-04-01 20:37:18"
+    },
+    {
+        "id": 381,
+        "category": "films",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's a movie you've seen recently that you enjoyed?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 382,
+        "category": "films",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite movie genre?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 383,
+        "category": "films",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer going to the cinema or watching movies at home?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 384,
+        "category": "films",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Who's your favorite actor or actress?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 385,
+        "category": "films",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a movie soundtrack you particularly love?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 386,
+        "category": "films",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What movie has had the biggest impact on you, and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 387,
+        "category": "films",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a movie you could watch over and over again?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 388,
+        "category": "films",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a movie you enjoy that you think most people haven't seen?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 389,
+        "category": "films",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could live in any movie universe, which would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 390,
+        "category": "films",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer blockbusters or independent films?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 391,
+        "category": "films",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a movie that makes you feel deeply understood or seen?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 392,
+        "category": "films",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What movie scene has resonated with you on a personal level, and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 393,
+        "category": "films",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If your life were a movie, what genre would it be and who would play you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 394,
+        "category": "films",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What movie do you secretly love even though you know it's not critically acclaimed?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 395,
+        "category": "films",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a movie that triggers a strong emotional response in you, perhaps linked to a personal memory?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 396,
+        "category": "films",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does any movie character reflect a part of yourself that you struggle to accept?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 397,
+        "category": "films",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What movie ending has left you feeling deeply unsettled or disturbed, and why does it affect you so much?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 398,
+        "category": "films",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite the ending of any movie, which would it be and how would you change it? (Reflecting on desired control or unresolved issues)",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 399,
+        "category": "films",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you use movies as a form of escapism from your own reality? If so, what are you trying to escape?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 400,
+        "category": "films",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What does your favorite movie genre reveal about your deepest fears and desires?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:07",
+        "updated_at": "2025-04-01 20:38:07"
+    },
+    {
+        "id": 401,
+        "category": "books",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's a book you've read recently that you'd recommend?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 402,
+        "category": "books",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What genre of books do you enjoy the most?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 403,
+        "category": "books",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer physical books, ebooks, or audiobooks?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 404,
+        "category": "books",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you ever read a book that changed your perspective on something?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 405,
+        "category": "books",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you visit the library or bookstore often?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 406,
+        "category": "books",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a book that you've re-read multiple times?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 407,
+        "category": "books",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular author whose work you consistently enjoy?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 408,
+        "category": "books",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer reading fiction or non-fiction? What draws you to that preference?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 409,
+        "category": "books",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever joined a book club or considered joining one?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 410,
+        "category": "books",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could have dinner with any author, living or dead, who would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 411,
+        "category": "books",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a book that made you cry or feel deeply emotional? Why did it affect you that way?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 412,
+        "category": "books",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a book that you identify with strongly, or a character you see yourself in?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 413,
+        "category": "books",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could live in the world of any book, which would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 414,
+        "category": "books",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a book you were embarrassed to admit you enjoyed? What held you back from sharing that?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 415,
+        "category": "books",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever felt personally attacked or challenged by a book's message? How did you react to that?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 416,
+        "category": "books",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Is there a book you started but couldn't finish? What prevented you from completing it, and what does that say about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 417,
+        "category": "books",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your life were a book, what genre would it be and what would the title be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 418,
+        "category": "books",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever judge yourself based on the books you read or don't read? What insecurities does that reveal?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 419,
+        "category": "books",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could rewrite the ending of any book you've read, which book would it be and how would you change it? What does your desired ending reveal about your own desires and unresolved issues?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 420,
+        "category": "books",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does reading offer you an escape from reality? If so, what aspects of your reality are you trying to escape, and what does that say about your current state of mind?",
+        "answer": null,
+        "created_at": "2025-04-01 20:38:53",
+        "updated_at": "2025-04-01 20:38:53"
+    },
+    {
+        "id": 421,
+        "category": "games",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What games do you enjoy playing casually?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 422,
+        "category": "games",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you played any new games recently that you'd recommend?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 423,
+        "category": "games",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer playing games online or in person?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 424,
+        "category": "games",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you more competitive or cooperative when you play games?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 425,
+        "category": "games",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's a game you think everyone should try at least once?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 426,
+        "category": "games",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of games did you enjoy playing as a child?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 427,
+        "category": "games",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you have any fond memories associated with playing a particular game?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 428,
+        "category": "games",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a game you're really good at, or one you wish you were better at?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 429,
+        "category": "games",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer games with complex rules or simpler ones?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 430,
+        "category": "games",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever been part of a gaming community or group?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 431,
+        "category": "games",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What role do games play in your life, and what do you get out of playing them?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 432,
+        "category": "games",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a game that you find particularly challenging or frustrating, and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 433,
+        "category": "games",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever use games as a way to escape or de-stress? How does that work for you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 434,
+        "category": "games",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could create your own game, what kind of game would it be and what would it be about?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 435,
+        "category": "games",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever had a negative experience related to gaming, like an argument or feeling excluded?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 436,
+        "category": "games",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel like you use games to avoid dealing with real-life issues or emotions?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 437,
+        "category": "games",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your approach to gaming reflect any deeper aspects of your personality or insecurities?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 438,
+        "category": "games",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could change one thing about your relationship with games, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 439,
+        "category": "games",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What do you think your gaming habits reveal about your values and priorities?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 440,
+        "category": "games",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel a sense of guilt or shame related to the amount of time or energy you spend on games?",
+        "answer": null,
+        "created_at": "2025-04-01 20:42:03",
+        "updated_at": "2025-04-01 20:42:03"
+    },
+    {
+        "id": 441,
+        "category": "fashion",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your go-to everyday style?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 442,
+        "category": "fashion",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any favorite accessories you like to wear?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 443,
+        "category": "fashion",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you seen any interesting fashion trends lately?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 444,
+        "category": "fashion",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your usual hairstyle like?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 445,
+        "category": "fashion",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any particular clothing brands you enjoy?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 446,
+        "category": "fashion",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular style icon you admire or draw inspiration from?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 447,
+        "category": "fashion",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever considered getting a tattoo? If so, what kind of design?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 448,
+        "category": "fashion",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most daring fashion choice you've ever made?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 449,
+        "category": "fashion",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How has your style evolved over the years?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 450,
+        "category": "fashion",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer comfort or style, and how do you balance the two?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 451,
+        "category": "fashion",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How does your style reflect your personality or inner self?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 452,
+        "category": "fashion",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could completely change your style without any limitations, what would it look like?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 453,
+        "category": "fashion",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do any of your tattoos hold a special meaning or story? If you don't have any, is there a story or meaning you'd want to express through a tattoo?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 454,
+        "category": "fashion",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever used your hairstyle or clothing choices to express rebellion or make a statement?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 455,
+        "category": "fashion",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How confident do you feel in your current style, and what aspects of it make you feel that way?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 456,
+        "category": "fashion",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel pressure to conform to certain style expectations, and how does that make you feel?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 457,
+        "category": "fashion",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your style could talk, what would it say about your deepest insecurities and desires?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 458,
+        "category": "fashion",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could get a tattoo that represented a significant turning point in your life, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 459,
+        "category": "fashion",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your hairstyle or appearance ever feel like a mask, hiding parts of yourself you don't want others to see?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 460,
+        "category": "fashion",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What do you fear most about expressing your true self through your style, and what would it take for you to overcome that fear?",
+        "answer": null,
+        "created_at": "2025-04-01 20:43:44",
+        "updated_at": "2025-04-01 20:43:44"
+    },
+    {
+        "id": 461,
+        "category": "digital",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite app on your phone and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 462,
+        "category": "digital",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer using a laptop or a tablet?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 463,
+        "category": "digital",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you an early adopter of new technology or do you prefer to wait and see?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 464,
+        "category": "digital",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one piece of tech you couldn't live without?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 465,
+        "category": "digital",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your go-to website or online platform for news or entertainment?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 466,
+        "category": "digital",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's the most embarrassing tech fail you've experienced?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 467,
+        "category": "digital",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you have any smart home devices? How have they impacted your life?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 468,
+        "category": "digital",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your opinion on the impact of social media on society?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 469,
+        "category": "digital",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could learn any tech skill instantly, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 470,
+        "category": "digital",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your preferred method of communication (text, call, email, etc.) and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 471,
+        "category": "digital",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has technology impacted your closest relationships?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 472,
+        "category": "digital",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever feel overwhelmed or anxious because of technology? How do you manage it?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 473,
+        "category": "digital",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you have any concerns about data privacy and security? How do you address them?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 474,
+        "category": "digital",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Has technology ever made you feel disconnected from the real world?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 475,
+        "category": "digital",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could change one thing about your relationship with technology, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 476,
+        "category": "digital",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel like technology controls you in any way? If so, how?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 477,
+        "category": "digital",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever use technology to escape from your feelings or problems?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 478,
+        "category": "digital",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your online persona accurately reflect your true self? If not, how does it differ?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 479,
+        "category": "digital",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest fears or insecurities related to technology and its impact on the future?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 480,
+        "category": "digital",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you believe technology is ultimately making the world a better or worse place, and why does that belief resonate so deeply with you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:44:56",
+        "updated_at": "2025-04-01 20:44:56"
+    },
+    {
+        "id": 481,
+        "category": "personality",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What are some of your hobbies or interests?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 482,
+        "category": "personality",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your typical weekend like?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 483,
+        "category": "personality",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you more of an introvert or an extrovert?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 484,
+        "category": "personality",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one thing you're really good at?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 485,
+        "category": "personality",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's something you're currently learning or want to learn?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 486,
+        "category": "personality",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a personality trait you admire in others?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 487,
+        "category": "personality",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you typically handle stress or pressure?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 488,
+        "category": "personality",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's one thing you're working on improving about yourself?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 489,
+        "category": "personality",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What kind of work environment do you thrive in?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 490,
+        "category": "personality",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's something you're passionate about outside of work/school?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 491,
+        "category": "personality",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a personal insecurity you struggle with?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 492,
+        "category": "personality",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a core value that guides your decisions?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 493,
+        "category": "personality",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's one thing you're afraid of people discovering about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 494,
+        "category": "personality",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you react when you feel criticized or judged?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 495,
+        "category": "personality",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a past experience that significantly shaped your personality?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 496,
+        "category": "personality",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What aspects of your personality do you secretly dislike or judge yourself for?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 497,
+        "category": "personality",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest fears about who you are as a person?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 498,
+        "category": "personality",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could change one fundamental aspect of your personality, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 499,
+        "category": "personality",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel truly authentic in how you present yourself to the world? If not, why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 500,
+        "category": "personality",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotional issues do you believe contribute to your current personality traits?",
+        "answer": null,
+        "created_at": "2025-04-01 20:46:23",
+        "updated_at": "2025-04-01 20:46:23"
+    },
+    {
+        "id": 501,
+        "category": "sociability",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What kind of social gatherings do you enjoy the most? (e.g., small intimate gatherings, large parties, online communities)",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 502,
+        "category": "sociability",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer to spend your free time with others or alone?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 503,
+        "category": "sociability",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any social activities you've been wanting to try?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 504,
+        "category": "sociability",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite way to meet new people?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 505,
+        "category": "sociability",
+        "depth": "basic",
+        "stage": "all",
+        "question": "How would you describe your social style? (e.g., outgoing, reserved, observant)",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 506,
+        "category": "sociability",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular type of person you find it easy to connect with?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 507,
+        "category": "sociability",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever felt out of place in a social setting? How did you handle it?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 508,
+        "category": "sociability",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you find it easy to maintain friendships over long distances or periods of time?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 509,
+        "category": "sociability",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What role do you typically play in a group setting? (e.g., leader, listener, mediator)",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 510,
+        "category": "sociability",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How important is having a strong social network to you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 511,
+        "category": "sociability",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of your insecurities when it comes to socializing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 512,
+        "category": "sociability",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever felt pressured to be more or less sociable than you naturally are? How did that affect you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 513,
+        "category": "sociability",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever feel lonely even when surrounded by people? What triggers that feeling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 514,
+        "category": "sociability",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a past social experience that significantly impacted your current approach to socializing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 515,
+        "category": "sociability",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What do you value most in your close friendships?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 516,
+        "category": "sociability",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you fear judgment from others in social situations? How does this fear manifest itself?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 517,
+        "category": "sociability",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest fears about being alone or rejected socially?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 518,
+        "category": "sociability",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you believe your level of sociability is authentic to who you are, or do you sometimes feel like you're performing a role?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 519,
+        "category": "sociability",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could change one thing about your social interactions, what would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 520,
+        "category": "sociability",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What unresolved emotional issues, if any, do you believe contribute to your current social patterns?",
+        "answer": null,
+        "created_at": "2025-04-01 20:47:19",
+        "updated_at": "2025-04-01 20:47:19"
+    },
+    {
+        "id": 521,
+        "category": "animals",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have any pets?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 522,
+        "category": "animals",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite animal?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 523,
+        "category": "animals",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you ever been to a zoo or aquarium? What did you think?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 524,
+        "category": "animals",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are there any animals you're afraid of?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 525,
+        "category": "animals",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you seen any interesting animal videos online recently?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 526,
+        "category": "animals",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could be any animal, which would you choose and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 527,
+        "category": "animals",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you prefer cats or dogs, and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 528,
+        "category": "animals",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your earliest memory involving an animal?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 529,
+        "category": "animals",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever volunteered at an animal shelter or rescue?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 530,
+        "category": "animals",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Are there any animals you find particularly fascinating or intriguing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 531,
+        "category": "animals",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What does your relationship with animals say about you as a person?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 532,
+        "category": "animals",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Has an interaction with an animal ever significantly impacted your life? How?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 533,
+        "category": "animals",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could communicate with animals, what would you ask them?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 534,
+        "category": "animals",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you believe animals have emotions and consciousness similar to humans? Why or why not?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 535,
+        "category": "animals",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you feel about the ethical treatment of animals in society (e.g., factory farming, animal testing)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 536,
+        "category": "animals",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you harbor any deep-seated fears or anxieties related to animals (e.g., past trauma, symbolic representation)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 537,
+        "category": "animals",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever project human emotions or characteristics onto animals? If so, what does that reveal about your own inner world?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 538,
+        "category": "animals",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could change one thing about humanity's relationship with animals, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 539,
+        "category": "animals",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your view on animals reflect your broader philosophy on life and death? How so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 540,
+        "category": "animals",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you feel a spiritual connection to animals? If so, how does that manifest itself?",
+        "answer": null,
+        "created_at": "2025-04-01 20:48:14",
+        "updated_at": "2025-04-01 20:48:14"
+    },
+    {
+        "id": 541,
+        "category": "language",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What languages do you speak?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 542,
+        "category": "language",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you enjoy learning new languages? Why or why not?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 543,
+        "category": "language",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your favorite word or phrase in a language other than your native tongue?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 544,
+        "category": "language",
+        "depth": "basic",
+        "stage": "all",
+        "question": "If you could become fluent in any language instantly, which would you choose and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 545,
+        "category": "language",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you ever traveled to a country where you didn't speak the language? What was that experience like?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 546,
+        "category": "language",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever had any funny or embarrassing misunderstandings due to language barriers?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 547,
+        "category": "language",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you think learning a new language has changed your perspective on the world? How so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 548,
+        "category": "language",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are your preferred methods for learning a new language (e.g., apps, classes, immersion)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 549,
+        "category": "language",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular accent or dialect you find particularly interesting or appealing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 550,
+        "category": "language",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you could only communicate in one language for the rest of your life, which would you choose and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 551,
+        "category": "language",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your native language shaped your identity and way of thinking?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 552,
+        "category": "language",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you feel more comfortable expressing certain emotions or ideas in a particular language? Why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 553,
+        "category": "language",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever felt judged or misunderstood because of your language skills or accent? How did that make you feel?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 554,
+        "category": "language",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever find yourself \"code-switching\" between languages depending on the social context? What motivates this?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 555,
+        "category": "language",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could go back in time and learn a language differently, what would you change?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 556,
+        "category": "language",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel like you're \"losing\" your native language or cultural connection to it? What triggers this feeling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 557,
+        "category": "language",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you have any deep-seated insecurities or anxieties related to your language abilities?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 558,
+        "category": "language",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever feel like your true self is better expressed in a language other than your native one? Why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 559,
+        "category": "language",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could erase the memory of one language you know, which would it be and why?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 560,
+        "category": "language",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you believe that language fundamentally shapes how we perceive and experience the world? How does this belief impact your relationship with language learning and communication?",
+        "answer": null,
+        "created_at": "2025-04-01 20:49:36",
+        "updated_at": "2025-04-01 20:49:36"
+    },
+    {
+        "id": 561,
+        "category": "learning",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's a skill you've recently learned or are currently trying to learn?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 562,
+        "category": "learning",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your preferred way of learning something new (e.g., reading, watching videos, hands-on experience)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 563,
+        "category": "learning",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Is there a particular subject or topic you find yourself drawn to learning more about?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 564,
+        "category": "learning",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's something you learned in school that you still use regularly today?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 565,
+        "category": "learning",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you prefer learning independently or in a group setting?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 566,
+        "category": "learning",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a skill you'd love to learn but haven't had the time or opportunity to pursue yet?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 567,
+        "category": "learning",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever taken a class or workshop that significantly impacted your perspective or skills?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 568,
+        "category": "learning",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a learning experience you've had outside of formal education that you found particularly valuable?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 569,
+        "category": "learning",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a particular learning style or method that you find doesn't work well for you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 570,
+        "category": "learning",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's a topic you're passionate enough about to teach others?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 571,
+        "category": "learning",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a learning experience that significantly changed your life or the way you think?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 572,
+        "category": "learning",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Is there a skill or area of knowledge you feel insecure about not having?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 573,
+        "category": "learning",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of the biggest obstacles you face when trying to learn something new?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 574,
+        "category": "learning",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How do you handle the frustration that sometimes comes with the learning process?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 575,
+        "category": "learning",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What's a learning experience you've had that made you feel vulnerable or exposed?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 576,
+        "category": "learning",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Is there a learning experience from your past that you haven't fully processed or come to terms with?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 577,
+        "category": "learning",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you fear failure when it comes to learning new things, and how does that fear manifest?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 578,
+        "category": "learning",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Are there any deep-seated beliefs about your intelligence or learning abilities that hold you back?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 579,
+        "category": "learning",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What are your deepest motivations for wanting to learn and grow?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 580,
+        "category": "learning",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could instantly master any skill or area of knowledge, what would it be and why, considering its impact on your deepest self?",
+        "answer": null,
+        "created_at": "2025-04-01 20:50:25",
+        "updated_at": "2025-04-01 20:50:25"
+    },
+    {
+        "id": 581,
+        "category": "housework",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you enjoy any particular aspect of housework?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 582,
+        "category": "housework",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's your go-to cleaning hack or shortcut?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 583,
+        "category": "housework",
+        "depth": "basic",
+        "stage": "all",
+        "question": "How often do you typically tidy up your living space?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 584,
+        "category": "housework",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Are you a minimalist or more of a maximalist when it comes to home decor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 585,
+        "category": "housework",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's one chore you absolutely can't stand?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 586,
+        "category": "housework",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you have a specific system or routine for housework, or do you tackle it as needed?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 587,
+        "category": "housework",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How do you feel about sharing housework responsibilities with others (roommates, family, etc.)?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 588,
+        "category": "housework",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What's your biggest housework-related pet peeve?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 589,
+        "category": "housework",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Growing up, what were your responsibilities regarding housework?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 590,
+        "category": "housework",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Do you find housework relaxing, stressful, or somewhere in between?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 591,
+        "category": "housework",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you feel like your approach to housework reflects any deeper aspects of your personality or upbringing?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 592,
+        "category": "housework",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Have you ever had conflicts with others regarding housework, and how did you resolve them?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 593,
+        "category": "housework",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Does the state of your living space affect your mental or emotional well-being? How so?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 594,
+        "category": "housework",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Do you ever feel pressure (internal or external) to maintain a certain standard of cleanliness?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 595,
+        "category": "housework",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could magically improve one aspect of your housework habits, what would it be?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 596,
+        "category": "housework",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you ever use housework as a coping mechanism or a way to avoid dealing with other emotions or issues?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 597,
+        "category": "housework",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What do you think your attitude towards housework reveals about your deeper values and priorities?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 598,
+        "category": "housework",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you associate any specific memories or emotions with housework, particularly from childhood?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 599,
+        "category": "housework",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If your living space could talk, what would it say about you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 600,
+        "category": "housework",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does your ideal vision of your living space align with your current reality? If not, what prevents you from achieving it, and what does that discrepancy reveal about yourself?",
+        "answer": null,
+        "created_at": "2025-04-01 20:51:21",
+        "updated_at": "2025-04-01 20:51:21"
+    },
+    {
+        "id": 601,
+        "category": "mentors",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Do you have anyone you consider a mentor, or someone you look up to professionally?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 602,
+        "category": "mentors",
+        "depth": "basic",
+        "stage": "all",
+        "question": "Have you ever mentored anyone, formally or informally?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 603,
+        "category": "mentors",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What qualities do you think make a good mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 604,
+        "category": "mentors",
+        "depth": "basic",
+        "stage": "all",
+        "question": "What's the best piece of advice you've received from someone you admire?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 605,
+        "category": "mentors",
+        "depth": "basic",
+        "stage": "all",
+        "question": "In what areas do you feel you could benefit from having a mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 606,
+        "category": "mentors",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Is there a specific skill or area of expertise you'd like to learn from a mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 607,
+        "category": "mentors",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "Have you ever had a negative experience with a mentor or mentee?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 608,
+        "category": "mentors",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "What are some of the challenges you've faced in finding a mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 609,
+        "category": "mentors",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "If you were to mentor someone, what kind of advice or guidance would you offer?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 610,
+        "category": "mentors",
+        "depth": "moderate",
+        "stage": "all",
+        "question": "How important do you think mentorship is for career development?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 611,
+        "category": "mentors",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Has there ever been a time when a mentor's advice significantly impacted your life choices? How did it feel?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 612,
+        "category": "mentors",
+        "depth": "deep",
+        "stage": "all",
+        "question": "What are some of your insecurities or fears related to seeking or being a mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 613,
+        "category": "mentors",
+        "depth": "deep",
+        "stage": "all",
+        "question": "How has your experience with mentors shaped your own leadership style or approach to helping others?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 614,
+        "category": "mentors",
+        "depth": "deep",
+        "stage": "all",
+        "question": "If you could go back in time, what advice would you give your younger self about finding or being a mentor?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 615,
+        "category": "mentors",
+        "depth": "deep",
+        "stage": "all",
+        "question": "Sharing a vulnerability: Have you ever felt inadequate as a mentor or mentee? What triggered that feeling?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 616,
+        "category": "mentors",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Do you fear that you'll never live up to the expectations of your mentors, or that you'll fail to guide your mentees effectively? Explore the root of this fear.",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 617,
+        "category": "mentors",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Does the idea of mentorship trigger any unresolved feelings about past relationships with authority figures?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 618,
+        "category": "mentors",
+        "depth": "profound",
+        "stage": "all",
+        "question": "What deep-seated beliefs about yourself do you project onto your mentor/mentee relationships? (e.g., needing validation, fear of dependence, fear of surpassing your mentor)",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 619,
+        "category": "mentors",
+        "depth": "profound",
+        "stage": "all",
+        "question": "If you could magically receive perfect mentorship in one area of your life, what would it be and why does that area hold such significance for you?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    },
+    {
+        "id": 620,
+        "category": "mentors",
+        "depth": "profound",
+        "stage": "all",
+        "question": "Imagine your ideal mentor/mentee relationship. What unspoken needs and desires would be fulfilled in this idealized scenario? What does this reveal about your deepest longings?",
+        "answer": null,
+        "created_at": "2025-04-01 20:52:59",
+        "updated_at": "2025-04-01 20:52:59"
+    }
+]

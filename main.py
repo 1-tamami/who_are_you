@@ -22,6 +22,8 @@ import send_email
 
 import math
 
+import json
+
 load_dotenv()
 FLASK_KEY = os.getenv("FLASK_KEY")
 DB_URI = os.getenv("DB_URI")
@@ -102,19 +104,19 @@ class DataManager:
                 # DBを辞書タイプに変換する関数を自分で設定する必要がある
                 return {column.name: getattr(self, column.name) for column in self.__table__.columns}
 
-        class Questions(self.db.Model):
-            __tablename__ = 'questions'
-            id: Mapped[int] = mapped_column(Integer, primary_key=True, unique=True)
-            category: Mapped[str] = mapped_column(String(250), nullable=False)
-            depth: Mapped[str] = mapped_column(String(250), nullable=False)
-            stage: Mapped[str] = mapped_column(String(250), nullable=False)
-            question: Mapped[str] = mapped_column(String(5000), nullable=False, unique=True)
-            answer: Mapped[str] = mapped_column(String(5000), nullable=True)
-            created_at: Mapped[str] = mapped_column(String(250), nullable=False)
-            updated_at: Mapped[str] = mapped_column(String(250), nullable=False)
+        # class Questions(self.db.Model):
+        #     __tablename__ = 'questions'
+        #     id: Mapped[int] = mapped_column(Integer, primary_key=True, unique=True)
+        #     category: Mapped[str] = mapped_column(String(250), nullable=False)
+        #     depth: Mapped[str] = mapped_column(String(250), nullable=False)
+        #     stage: Mapped[str] = mapped_column(String(250), nullable=False)
+        #     question: Mapped[str] = mapped_column(String(5000), nullable=False, unique=True)
+        #     answer: Mapped[str] = mapped_column(String(5000), nullable=True)
+        #     created_at: Mapped[str] = mapped_column(String(250), nullable=False)
+        #     updated_at: Mapped[str] = mapped_column(String(250), nullable=False)
 
-            def to_dict(self):
-                return {column.name: getattr(self, column.name) for column in self.__table__.columns}
+        #     def to_dict(self):
+        #         return {column.name: getattr(self, column.name) for column in self.__table__.columns}
         
 
         class Users(UserMixin, self.db.Model):
@@ -133,7 +135,7 @@ class DataManager:
 
 
         self.UserAnswer = UserAnswer
-        self.Questions = Questions
+        # self.Questions = Questions
         self.Users = Users
         self.RegisterForm = RegisterForm
         self.LoginForm = LoginForm
@@ -225,16 +227,16 @@ class DataManager:
 
     # --- Origin Questions -------
     def get_all_questions(self, current_user):
-        with self.app.app_context():
-            if current_user.is_authenticated:
-                already_answered_ids = self.db.session.query(self.UserAnswer.question_id).filter(self.UserAnswer.id == current_user.id).all()
-                already_answered_ids = [item[0] for item in already_answered_ids]
-                all_posts = self.db.session.query(self.Questions).filter(
-                    ~self.Questions.id.in_(already_answered_ids))
-                return [post.to_dict() for post in all_posts]             
-            else:
-                all_posts = self.db.session.query(self.Questions).all()
-                return [post.to_dict() for post in all_posts]             
+        # with self.app.app_context():
+            # if current_user.is_authenticated:
+            #     already_answered_ids = self.db.session.query(self.UserAnswer.question_id).filter(self.UserAnswer.id == current_user.id).all()
+            #     already_answered_ids = [item[0] for item in already_answered_ids]
+            #     all_posts = self.db.session.query(self.Questions).filter(
+            #         ~self.Questions.id.in_(already_answered_ids))
+            #     return [post.to_dict() for post in all_posts]             
+            # else: 
+        with open("questions.json") as data:
+                    return json.load(data)            
         
     def pick_random_question(self, current_user):
         return random.choice(self.get_all_questions(current_user))
@@ -650,4 +652,4 @@ def help():
                                 current_year=year)
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True, port=5050)
