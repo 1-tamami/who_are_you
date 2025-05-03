@@ -643,5 +643,16 @@ def help():
                                 name = current_user.username,
                                 current_year=year)
 
+@app.route('/termsofuse')
+def terms_of_use():
+     if not current_user.is_authenticated:
+        current_user.username = None
+        current_user.id = None
+     return render_template("terms_of_use.html", 
+                                logged_in=current_user.is_authenticated, 
+                                name = current_user.username,
+                                current_year=year)
+
 if __name__ == "__main__":
-    app.run(debug=False)
+    # app.run(debug=False)
+    app.run(host='127.0.0.1', port=5050, debug=True)
