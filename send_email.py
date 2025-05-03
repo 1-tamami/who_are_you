@@ -24,7 +24,10 @@ class SendEmail:
         body = f'''
 Hi {recipient_name},
 
-Thank you for reaching out to me!
+Thank you for reaching out to us!
+
+Your email address:
+{recipient_email}
 
 Your message:
 [{category}]

@@ -614,7 +614,7 @@ def contact():
             "message":form.message.data
         }
         send_email.send_email(inquiry)
-        flash("Submitted successfully.")
+        flash("Your message submitted successfully.")
         return redirect(url_for('home'))
     else:
         return render_template("contact.html", 
