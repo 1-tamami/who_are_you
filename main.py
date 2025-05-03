@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for, send_file
+from flask import Flask, render_template, request, redirect, url_for, send_file, flash
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
 from sqlalchemy import Integer, String, and_
@@ -15,22 +15,21 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import UserMixin, login_user, LoginManager, login_required, current_user, logout_user
 
 import csv
+import ast
 import os
 from dotenv import load_dotenv
 
 import send_email
-
 import math
 
-import json
 
 load_dotenv()
 FLASK_KEY = os.getenv("FLASK_KEY")
 DB_URI = os.getenv("DB_URI")
-depth = os.getenv("DEPTH")
-category = os.getenv("CATEGORY")
-stage = os.getenv("STAGE")
-
+depth = ast.literal_eval(os.getenv("DEPTH"))
+category = ast.literal_eval(os.getenv("CATEGORY"))
+stage = ast.literal_eval(os.getenv("STAGE"))
+print(depth[0])
 # CREATE DB
 class Base(DeclarativeBase):
     pass
@@ -47,7 +46,6 @@ class DataManager:
         bt = Bootstrap5(self.app)
         self.login_manager = LoginManager()
         self.login_manager.init_app(self.app)
-        self.feedback = ""
         
         # register
         class RegisterForm(FlaskForm):
@@ -85,7 +83,7 @@ class DataManager:
         class ContactForm(FlaskForm):
             name = StringField('Name', validators=[DataRequired()])
             email = EmailField('Email Address', validators=[DataRequired()])
-            category = SelectField('Category', choices=[("General Inquiries", "General Inquiries"), ("Technical Issues", "Technical Issues"), ("Feature Requests", "Feature Requests"), ("Delete the Account", "Delete the Account"), ("Others", "Others")], validators=[DataRequired()])
+            category = SelectField('Category', choices=[("General Inquiries", "General Inquiries"), ("Technical Issues", "Technical Issues"), ("Feature Requests", "Feature Requests"), ("Account Deletion", "Account Deletion"), ("Others", "Others")], validators=[DataRequired()])
             message = TextAreaField('Message', validators=[DataRequired()])
             submit = SubmitField('Submit', render_kw={'class': 'btn btn-dark'})
 
@@ -261,13 +259,13 @@ class DataManager:
                 all_posts.append(post_dict)
         return all_posts
     
-    def add_post(self, question_id, user_answer, user_id):
+    def add_post(self, question_id, user_answer, user_id, is_student):
         with self.app.app_context():
             question = self.db.session.execute(self.db.select(self.Questions).where(self.Questions.id == question_id)).scalar().to_dict()
             new_answer = self.UserAnswer(
                     user_id=user_id,
                     question_id=question_id,
-                    student=False,
+                    student=is_student,
                     question=question["question"],
                     answer=user_answer,
                     created_at= dt.datetime.now().strftime('%F %T'),
@@ -344,7 +342,6 @@ def home():
                            current_year=year,
                            pages = pages,
                            current_page=current_page,
-                           feedback=manager.feedback,
                            logged_in=current_user.is_authenticated,
                            name = current_user.username
                            )
@@ -354,23 +351,22 @@ def home():
 def get_new_record(id):
     if request.method == "POST":
         new_record = request.form.get("new_record")
-        manager.add_post(question_id=id, user_answer=new_record, user_id=current_user.id)
-        manager.feedback = "Submit Successfuly."
+        manager.add_post(question_id=id, user_answer=new_record, user_id=current_user.id, is_student=current_user.student)
+        flash("Submit Successfuly.")
     return redirect(url_for("home"))
 
 
-@app.route('/cat=<category>')
-def filtered_category(category):
+@app.route('/cat=<current_category>')
+def filtered_category(current_category):
     user_answer_list = manager.get_all_posts(current_user.id)
-    if category == "all":
+    if current_category == "all":
         rendered_data=user_answer_list[:10]
     else:
         filtered_database = []
         for item in user_answer_list:
-            if item["category"] == category:
+            if item["category"] == current_category:
                 filtered_database.append(item)
         rendered_data=filtered_database[:10]
-    manager.feedback = ""
     pages = math.ceil(len(user_answer_list)/10)
     current_page = 1 
     return render_template("index.html",
@@ -381,24 +377,22 @@ def filtered_category(category):
                     current_year=year,
                     pages = pages,
                     current_page=current_page,
-                    feedback=manager.feedback,
                     logged_in=current_user.is_authenticated,
                     name = current_user.username
                     )
 
  
-@app.route('/depth=<depth>')
-def filtered_depth(depth):
+@app.route('/depth=<current_depth>')
+def filtered_depth(current_depth):
     user_answer_list = manager.get_all_posts(current_user.id)
-    if depth == "all":
+    if current_depth == "all":
         rendered_data=user_answer_list[:10]
     else:
         filtered_database=[]
         for item in user_answer_list:
-            if item["depth"] == depth:
+            if item["depth"] == current_depth:
                 filtered_database.append(item)
         rendered_data=filtered_database[:10]
-    manager.feedback = ""
     pages = math.ceil(len(user_answer_list)/10)
     current_page = 1
     return render_template("index.html",
@@ -409,7 +403,6 @@ def filtered_depth(depth):
                     current_year=year,
                     pages = pages,
                     current_page=current_page,
-                    feedback=manager.feedback,
                     logged_in=current_user.is_authenticated,
                     name = current_user.username)
 
@@ -417,10 +410,9 @@ def filtered_depth(depth):
 def sort(sort):
     user_answer_list = manager.get_all_posts(current_user.id)
     if sort == "latest":
-        rendered_data = user_answer_list[:10]  # 最新の10件を取得
+        rendered_data = user_answer_list[:10]
     else:
         rendered_data=user_answer_list[::-1][:10]
-    manager.feedback = ""
     pages = math.ceil(len(user_answer_list)/10)
     current_page = 1
     return render_template("index.html",
@@ -429,7 +421,6 @@ def sort(sort):
                     depth=depth,
                     user_data=rendered_data,
                     current_year=year,
-                    feedback=manager.feedback,
                     pages = pages,
                     current_page=current_page,
                     logged_in=current_user.is_authenticated,
@@ -440,14 +431,12 @@ def pagenation(number):
     user_answer_list = manager.get_all_posts(current_user.id)
     rendered_data = user_answer_list[(int(number)-1)*10:(int(number))*10]
     pages = math.ceil(len(user_answer_list)/10)
-    manager.feedback = ""
     return render_template("index.html",
                     question=manager.current_random_question,
                     category=category,
                     depth=depth,
                     user_data=rendered_data,
                     current_year=year,
-                    feedback=manager.feedback,
                     current_page=int(number),
                     pages=pages,
                     logged_in=current_user.is_authenticated,
@@ -457,7 +446,7 @@ def pagenation(number):
 @app.route('/delete=<id>')
 def delete(id):
     manager.delete_posts(question_id=id, user_id=current_user.id)
-    manager.feedback = "Deleted successfully."
+    flash("Deleted successfully.")
     return redirect(url_for("home"))
 
 @app.route('/edit=<int:id>', methods=["GET", "POST"])
@@ -465,7 +454,7 @@ def edit(id):
     if request.method == "POST":
         new_record = request.form.get("new_record")
         manager.edit_post(question_id=id, user_answer=new_record, user_id=current_user.id)
-        manager.feedback = "Updated successfully."
+        flash("Updated successfully.")
         return redirect(url_for("home"))
     else:
         user_answer_list = manager.get_all_posts(current_user.id)
@@ -495,15 +484,15 @@ def register():
                 "student": form.student.data,
             }
             if manager.create_new_user(new_user):
-                manager.feedback = f"Thanks for joining, {form.username.data.title()}! Please login and get started!"
+                flash(f"Thanks for joining, {form.username.data.title()}! Please login and get started!")
                 return redirect(url_for("login"))
             else:
-                manager.feedback = f"You seem already have an account. Please login your account."
+                flash("You seem already have an account. Please login your account.")
                 return redirect(url_for("login"))
         else:
-            manager.feedback = f"We need your consent for Terms of Use."
+            flash("We need your consent for Terms of Use.")
             return redirect(url_for("register"))
-    return render_template('register.html', form=form, feedback=manager.feedback,
+    return render_template('register.html', form=form,
                                 current_year=year)
 
 
@@ -517,19 +506,20 @@ def login():
             }
         confirmed_user =  manager.let_them_login(user)
         if type(confirmed_user) == str:
-            manager.feedback = confirmed_user
-            return render_template('login.html', form=form, feedback=manager.feedback)            
+            flash(confirmed_user)
+            return render_template('login.html', form=form)            
         else:
             login_user(confirmed_user)
-            manager.feedback = f"Welcome back, {current_user.username.title()}"
+            flash(f"Welcome back, {current_user.username.title()}!")
             return redirect(url_for("home"))       
     else:
-        return render_template("login.html", form=form, feedback=manager.feedback,
+        return render_template("login.html", form=form,
                                 current_year=year)
 
 @app.route('/logout')
 def logout():
     logout_user()
+    flash("Logged out successfully.")
     return redirect(url_for("home"))
 
 @app.route('/mypage')
@@ -538,7 +528,8 @@ def mypage():
     return render_template("mypage.html", 
                            logged_in=current_user.is_authenticated, 
                            name = current_user.username,
-                           current_year=year)
+                           current_year=year,
+                           )
 
 @app.route('/download')
 @login_required
@@ -549,6 +540,9 @@ def download():
             return send_file(path_or_file=result, as_attachment=True)
         finally:
             os.remove(result)
+            flash("Downloaded a file successfully.")
+    else:
+        flash("No data.")
     return redirect(url_for('mypage'))
 
 
@@ -566,11 +560,11 @@ def settings():
             update_information["student"] = int(form.student.data)
         if update_information != {}:
             manager.update_user_information(user_id=current_user.id, update_information=update_information)
+        flash("Updated your information successfully.")
         return redirect(url_for('mypage'))
     else:
         return render_template("settings.html", 
                                 form=form,
-                                feedback=manager.feedback, 
                                 logged_in=current_user.is_authenticated, 
                                 name = current_user.username,
                                 current_year=year)
@@ -590,21 +584,18 @@ def change_password():
             update_information = {"password": hash_and_salted_password}
             manager.update_user_information(user_id=current_user.id, update_information=update_information)
             logout_user()
-            manager.feedback = "Updated the password successfully. Please login with the new password."
+            flash("Updated the password successfully. Please login with the new password.")
             return redirect(url_for("login"))        
         else:
-            manager.feedback = f"The current password is wrong. Please try again."
+            flash("The current password is wrong. Please try again.")
             return render_template("password.html",
                                 form=form,
-                                feedback=manager.feedback,
                                 logged_in=current_user.is_authenticated,
                                 current_year=year,
                                 name = current_user.username)      
     else:
-        manager.feedback=""
         return render_template("password.html",
                                 form=form,
-                                feedback=manager.feedback,
                                 logged_in=current_user.is_authenticated,
                                 current_year=year,
                                 name = current_user.username)
@@ -623,12 +614,11 @@ def contact():
             "message":form.message.data
         }
         send_email.send_email(inquiry)
-        manager.feedback = "Submitted successfully."
+        flash("Submitted successfully.")
         return redirect(url_for('home'))
     else:
         return render_template("contact.html", 
                                 form=form,
-                                feedback=manager.feedback, 
                                 logged_in=current_user.is_authenticated, 
                                 name = current_user.username,
                                 current_year=year)
@@ -654,4 +644,4 @@ def help():
                                 current_year=year)
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(host='127.0.0.1', port=5050, debug=True)
