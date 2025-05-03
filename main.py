@@ -55,7 +55,7 @@ class DataManager:
             email = EmailField('Email Address', validators=[DataRequired()])
             password = PasswordField('Password', validators=[DataRequired(), 
                                                              Length(min=10, message="Password must be at least 10 characters long."),
-                                                             Regexp(r'^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{10,}$', message="Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character.")])
+                                                             Regexp(r'^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{10,}$', message="Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character from @$!%*?&.")])
             student = SelectField('Are you a student?', validators=[DataRequired()], choices=[(0, "No"), (1, 'Yes')])
             agreement = SelectField('Do you agree Terms of Use?', validators=[DataRequired()], choices=[(1, 'Agree'), (0, "Disagree")])
             submit = SubmitField('Create New Account', render_kw={'class': 'btn btn-dark'})
@@ -151,10 +151,8 @@ class DataManager:
     # --- User management -----
     def create_new_user(self, new_user):
         with self.app.app_context():
-            try:
-                result = self.db.session.execute(self.db.select(self.Users).where(self.Users.email == new_user["email"])).scalar()
-                return False
-            except Exception:
+            result = self.db.session.execute(self.db.select(self.Users).where(self.Users.email == new_user["email"])).scalar()
+            if result == None:                
                 new_user = self.Users(
                     username=new_user["username"],
                     email=new_user["email"],
@@ -166,7 +164,11 @@ class DataManager:
                 )
                 self.db.session.add(new_user)
                 self.db.session.commit()
+                print("New sccount created.")
                 return True
+            else:
+                print("The account has been already created.")
+                return False
 
     def let_them_login(self, user):
         try:
