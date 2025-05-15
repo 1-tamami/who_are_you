@@ -2,7 +2,9 @@
 __pycache__/
 raw_data.txt
 questions.db
-data_component.py
 instance/
 replace_db.py
+old_questions.json
 questions.json
+gemini.py
+word_list.py
