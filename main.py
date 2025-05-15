@@ -109,7 +109,6 @@ class DataManager:
             depth: Mapped[str] = mapped_column(String(250), nullable=False)
             stage: Mapped[str] = mapped_column(String(250), nullable=False)
             question: Mapped[str] = mapped_column(String(5000), nullable=False, unique=True)
-            answer: Mapped[str] = mapped_column(String(5000), nullable=True)
             created_at: Mapped[str] = mapped_column(String(250), nullable=False)
             updated_at: Mapped[str] = mapped_column(String(250), nullable=False)
 
@@ -654,5 +653,5 @@ def terms_of_use():
                                 current_year=year)
 
 if __name__ == "__main__":
-    app.run(debug=False)
-    # app.run(host='127.0.0.1', port=5050, debug=True)
+    # app.run(debug=False)
+    app.run(host='127.0.0.1', port=5050, debug=True)
