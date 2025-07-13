@@ -52,8 +52,8 @@ class DataManager:
             username = StringField('Username', validators=[DataRequired()])
             email = EmailField('Email Address', validators=[DataRequired()])
             password = PasswordField('Password', validators=[DataRequired(), 
-                                                             Length(min=10, message="Password must be at least 10 characters long."),
-                                                             Regexp(r'^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{10,}$', message="Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character from @$!%*?&.")])
+                                                             Length(min=8, message="Password must be at least 8 characters long."),
+                                                             Regexp(r'^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[A-Za-z\d]{8,}$', message="Password must contain at least one lowercase letter, one uppercase letter and one digit.")])
             student = SelectField('Are you a student?', validators=[DataRequired()], choices=[(0, "No"), (1, 'Yes')])
             agreement = SelectField('Do you agree Terms of Use?', validators=[DataRequired()], choices=[(1, 'Agree'), (0, "Disagree")])
             submit = SubmitField('Create New Account', render_kw={'class': 'btn btn-dark'})
